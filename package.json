@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"sass": "^1.64.1",
+		"compile:scss": "sass public/assets/scss/styles.scss public/assets/css/styles.css"
+	}
+}
